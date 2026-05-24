@@ -4,22 +4,25 @@
 
 ### Senior Full Stack Engineer
 
-Building web, mobile, backend, and cloud applications.
+Building scalable applications across web, mobile, backend, and cloud environments.
 
 </div>
 
 ---
 
-I'm a Senior Full Stack Engineer with experience designing and developing products across frontend systems, backend services, mobile applications, and cloud environments.
+I'm a Senior Full Stack Engineer with 12+ years of experience working on frontend applications, backend platforms, mobile products, APIs, and cloud infrastructure.
 
-My work includes React, Next.js, Angular, TypeScript, Node.js, NestJS, Laravel, Django, ASP.NET, React Native, Flutter, Swift, Kotlin, AWS, GCP, Docker, Kubernetes, and modern deployment workflows.
+My experience includes building modern applications using React, Next.js, Angular, TypeScript, Node.js, NestJS, Express, Laravel, Django, ASP.NET, React Native, Flutter, Swift, Kotlin, AWS, GCP, Docker, Kubernetes, and CI/CD workflows.
+
+I have worked on product development, scalable architectures, deployment pipelines, real-time systems, cloud integrations, and production environments across multiple industries.
 
 <div align="center">
 
-💻 Web Engineering • 📱 Mobile Development • ☁️ Cloud Systems • ⚙️ Backend Services
+💻 Web • 📱 Mobile • ⚙️ Backend • ☁️ Cloud • 🚀 Production Systems
 
 </div>
 
 ---
 
-I focus on scalable architecture, maintainable codebases, and production-ready applications.
+```txt
+React • Next.js • Angular • TypeScript • Node.js • NestJS • Laravel • Django • ASP.NET • React Native • Flutter • Swift • Kotlin • AWS • GCP • Docker • Kubernetes
