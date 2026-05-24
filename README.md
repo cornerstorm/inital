@@ -4,7 +4,7 @@
 
 ### Senior Full Stack Engineer
 
-Building scalable applications across web, mobile, backend, and cloud environments.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+Cloud;Building+scalable+and+production-ready+applications" />
 
 </div>
 
@@ -18,17 +18,18 @@ I have worked on product development, scalable architectures, deployment pipelin
 
 <div align="center">
 
-### Tech I work with
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,nodejs,nestjs,express,laravel,django,dotnet,flutter,swift,kotlin,aws,gcp,docker,kubernetes" />
 
 </div>
 
----
+<br />
 
 <div align="center">
 
-💻 Web &nbsp;&nbsp; 📱 Mobile &nbsp;&nbsp; ⚙️ Backend &nbsp;&nbsp; ☁️ Cloud &nbsp;&nbsp; 🚀 Production Systems
+<img src="https://img.shields.io/badge/Web-Engineering-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mobile-Development-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-Systems-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-Infrastructure-black?style=for-the-badge" />
 
 </div>
 
