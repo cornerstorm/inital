@@ -1,11 +1,21 @@
-# Hi there 👋 I'm Corner
+<h1 align="center">Hi 👋</h1>
 
-Senior Full Stack Engineer with 12+ years of experience building scalable web, mobile, and cloud applications.
+<p align="center">
+Senior Full Stack Engineer
+</p>
+
+I’m a Senior Full Stack Engineer with 12+ years of experience building web, mobile, and cloud applications.
+
+My background includes frontend development with React, Next.js, Angular, TypeScript, and modern UI frameworks, along with backend development using Node.js, NestJS, Express, Laravel, Django, ASP.NET, and scalable API architectures.
+
+I’ve worked on mobile applications using React Native, Flutter, Swift, and Kotlin for both iOS and Android platforms.
+
+My experience also includes cloud infrastructure, DevOps workflows, and deployment environments using AWS, GCP, Docker, Kubernetes, and CI/CD pipelines.
 
 ### Tech Stack
 
 **Frontend**  
-React • Next.js • TypeScript • Angular • Tailwind CSS
+React • Next.js • Angular • TypeScript • Tailwind CSS
 
 **Mobile**  
 React Native • Flutter • Swift • Kotlin
@@ -15,26 +25,3 @@ Node.js • NestJS • Express • Laravel • Django • ASP.NET
 
 **Cloud & DevOps**  
 AWS • GCP • Docker • Kubernetes • CI/CD
-
-### What I Build
-
-- Web applications and SaaS platforms  
-- Mobile apps for iOS and Android  
-- Real-time systems and APIs  
-- AI integrated applications  
-- Cloud infrastructure and scalable backend services  
-
-### Currently Exploring
-
-- AI products and automation  
-- Mobile performance optimization  
-- Scalable architecture design  
-- Modern developer workflows  
-
-### Contact
-
-📧 Open to collaboration and interesting projects
-
----
-
-> Building products with clean code, practical architecture, and long-term scalability.
