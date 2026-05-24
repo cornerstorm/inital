@@ -1,9 +1,25 @@
+<div align="center">
+
 # Hi 👋
 
-I'm a Senior Full Stack Engineer with 12+ years of experience building web, mobile, and cloud applications.
+### Senior Full Stack Engineer
 
-My work includes frontend development, backend systems, API design, mobile applications, and production deployments across different environments.
+Building web, mobile, backend, and cloud applications.
 
-I have worked with modern JavaScript ecosystems, backend platforms, mobile frameworks, cloud services, and scalable architectures.
+</div>
 
-I enjoy building maintainable systems with clean structure and long-term scalability.
+---
+
+I'm a Senior Full Stack Engineer with experience designing and developing products across frontend systems, backend services, mobile applications, and cloud environments.
+
+My work includes React, Next.js, Angular, TypeScript, Node.js, NestJS, Laravel, Django, ASP.NET, React Native, Flutter, Swift, Kotlin, AWS, GCP, Docker, Kubernetes, and modern deployment workflows.
+
+<div align="center">
+
+💻 Web Engineering • 📱 Mobile Development • ☁️ Cloud Systems • ⚙️ Backend Services
+
+</div>
+
+---
+
+I focus on scalable architecture, maintainable codebases, and production-ready applications.
